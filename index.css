@@ -45,3 +45,18 @@ body {
     margin-left: 2rem;
 }
 
+
+@media screen and (max-width: 480px) {
+    .main {
+        margin: 0;
+    }
+    .main .title {
+        font-size: 28px;
+    }
+
+    .main .intro {
+        font-size: 18px;
+        max-width: 100%;
+    }
+
+}
