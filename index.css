@@ -60,3 +60,14 @@ body {
     }
 
 }
+
+footer {
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+}
+
+footer .copyright {
+    text-align: center;
+}
+
